@@ -1,6 +1,5 @@
-This repository is there to coordinate agenda and document sharing for the OCaml developer subsystem meetings.
+This repository collect agenda and notes of meetings around the OCaml
+language and implementation. Most of these meetings have been
+organized in an informal way, and some have become recurrent meetings
+running regularly.
 
-# History
-
-- 30 September 2021, 7:00- 9:00 UTC: Effect system meeting
-- 30 September 2021, 9:00-11:00 UTC: Type system meeting
